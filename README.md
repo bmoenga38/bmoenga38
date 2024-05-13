@@ -1,17 +1,25 @@
-# Hi there, I'm Brycode! 👋
+# Hi there, I'm Brian Moenga! 👋
 
 ## About Me
 
-I'm a passionate developer based in [Your Location]. I love coding and enjoy exploring new technologies.
+Certainly! Here's your revised professional bio:
 
-- 🔭 I'm currently working on a Currency Exchange app that prioritizes ease of use and real-time rates.
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I'm looking to collaborate on open-source projects related to web development, especially in the areas of front-end frameworks like React, Angular.js, .Net Core, Next.js, Java Spring, and Django.
-- 💬 Ask me about full-stack Development
-- 📫 How to reach me: [brycode6@gmail.com](mailto:brycode6@gmail.com)
-- 😄 Pronouns: him
-- ⚡ Fun fact: I can juggle three flaming chainsaws (not really, but I can juggle three balls!) and I'm a champion pool table player. Additionally, I can recite the alphabet backwards perfectly, and I'm fluent in English.
+---
 
+👋 Hello! I'm a dedicated developer based in Nairobi, Kenya, with a deep passion for coding and a knack for exploring cutting-edge technologies.
 
+- 🔭 Currently, I'm engrossed in the development of a Currency Exchange application that emphasizes user-friendliness and real-time exchange rates.
 
-Feel free to reach out and say hello! 😊
+- 🌱 Always eager to learn, I'm currently expanding my expertise in various technologies and skills to enhance my development prowess.
+
+- 👯 I'm actively seeking opportunities to collaborate on open-source projects within the realm of web development, particularly focusing on front-end frameworks such as React, Angular.js, .NET Core, Next.js, Java Spring, and Django.
+
+- 💬 Feel free to engage me in discussions about full-stack development; it's an area I'm deeply passionate about and well-versed in.
+
+- 📫 You can reach me via email at [brycode6@gmail.com](mailto:brycode6@gmail.com) to discuss potential collaborations or any inquiries.
+
+- 😄 My preferred pronouns are him.
+
+- ⚡ Fun fact: While I may not juggle flaming chainsaws, I do have a talent for juggling three balls! I'm also a skilled pool table player and possess the unique ability to recite the alphabet backward flawlessly. Additionally, I'm fluent in English.
+
+Let's connect and create remarkable solutions together!
