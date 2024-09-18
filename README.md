@@ -2,7 +2,6 @@
 
 ## About Me
 
-Certainly! Here's your revised professional bio:
 
 ---
 
